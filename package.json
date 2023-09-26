@@ -1,0 +1,15 @@
+{
+  "name": "learn-virtual-dom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dsjin/learn-virtual-dom.git",
+  "author": "Thatchakon Jom-ud",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx ts-node ./src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.7.0",
+    "typescript": "^5.2.2"
+  }
+}
